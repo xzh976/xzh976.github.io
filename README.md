@@ -1,2 +1,2 @@
 # xzh976.github.io
-The website is under maintenance and will be online soon！
+The simple version of the website is already online！
