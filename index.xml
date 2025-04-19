@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuan on Xuan&#39;s blog</title>
+    <link>https://xzh976.github.io/</link>
+    <description>Recent content in Xuan on Xuan&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xzh976.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://xzh976.github.io/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Project</title>
+      <link>https://xzh976.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://xzh976.github.io/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>https://xzh976.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>https://xzh976.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://xzh976.github.io/about/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Xuan, welcome to my blog! In my spare time, I like to coding, games, travelling, music and video!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://xzh976.github.io/intern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/intern/</guid>
+      <description>&lt;h2 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0; margin-bottom: 20px;&#34;&gt;Intern Experience&lt;/h2&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;&lt;p style=&#34;margin: 0;&#34;&gt;💻 Research Assistant in CUHK (SZ), Sep. 2022-May. 2023 &lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;&lt;p style=&#34;margin: 0;&#34;&gt;💻 Research Assistant in SCI Lab, Westlake University, Jun. 2022-Sep. 2022 &lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://xzh976.github.io/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/personal/</guid>
+      <description>&lt;div style=&#34;display: flex; justify-content: space-between; align-items: center; max-width: 1000px; margin: 0 auto; padding-left: 0; margin-left: 0;&#34;&gt;&#xA;  &lt;div style=&#34;flex: 1; font-size: 1.2rem; line-height: 1.6; padding-right: 20px;&#34;&gt;&#xA;&lt;h3 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0; margin-bottom: 20px;&#34;&gt;Xuan Zhu&lt;/h3&gt;&#xA;&lt;p&gt;Second-year Ph. D. Student&lt;/p&gt;&#xA;&lt;p&gt;Victoria University of Wellington, Wellington, New Zealand&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:xuan.zhu@vuw.ac.nz&#34;&gt;xuan.zhu@vuw.ac.nz&lt;/a&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;flex-shrink: 0; display: flex; align-items: center;&#34;&gt;&#xA;    &lt;img src=&#34;../images/photo.jpg&#34; alt=&#34;示意图&#34; style=&#34;width: 200px; height: auto; border-radius: 8px; vertical-align: middle;&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h3 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0; margin-top: 8px;&#34;&gt;Biography&lt;/h3&gt;&#xA;&lt;hr style=&#34;border: none; border-top: 1px solid #999; margin-top: 2px;&#34;&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;I am a Ph. D. student in Victoria University of Wellington (VUW), supervised by &lt;a href=&#34;https://fanglue.github.io/&#34; class=&#34;bold-link&#34; target=&#34;_blank&#34;&gt;Dr. Fang-Lue Zhang&lt;/a&gt;,  &lt;a href=&#34;https://users.cs.cf.ac.uk/Yukun.Lai/&#34; class=&#34;bold-link&#34; target=&#34;_blank&#34;&gt;Prof. Yu-Kun Lai&lt;/a&gt;,&#xA;and &lt;a href=&#34;https://users.cs.cf.ac.uk/Paul.Rosin/&#34; class=&#34;bold-link&#34; target=&#34;_blank&#34;&gt;Prof. Paul Rosin&lt;/a&gt;. In 2022, I received my master degree in the Sichuan University (Project 985 in China), &#xA;supervised by &lt;a href=&#34;https://saa.scu.edu.cn/teamlist.htm?action=detailTeam&amp;uuinId=781501232287759&#34; class=&#34;bold-link&#34; target=&#34;_blank&#34;&gt;Prof. Wei Li&lt;/a&gt;.&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;text-align: justify; margin: 12px 0;&#34;&gt;&#xA;During the period 2022 to 2023, I have worked in CUHK (SZ) and Westlake University as a Research Assistant, supervised by &lt;a href=&#34;https://www.x-mol.com/groups/sun_qilin_imaging&#34; class=&#34;bold-link&#34; target=&#34;_blank&#34;&gt;Prof. Qilin Sun&lt;/a&gt; &#xA;and &lt;a href=&#34;https://xyvirtualgroup.github.io/&#34; class=&#34;bold-link&#34; target=&#34;_blank&#34;&gt;Prof. Xin Yuan&lt;/a&gt;.&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;text-align: justify; &#34;&gt;&#xA;My research interests are &lt;strong&gt;Computational Imaging, Image/Video Processing and Generation&lt;/strong&gt;.&#xA;&lt;/div&gt;&#xA;&lt;h3 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0; margin-top: 24px;&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;hr style=&#34;border: none; border-top: 1px solid #999; margin-top: 2px;&#34;&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;&lt;p style=&#34;margin: 0;&#34;&gt;🎓 Ph. D., Victoria University of Wellington, Dec. 2023-Present&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://xzh976.github.io/photography/wellington/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/photography/wellington/</guid>
+      <description>&lt;h2 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0;&#34;&gt;Wellington&lt;/h2&gt;&#xA;新西兰</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://xzh976.github.io/post/sharing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/post/sharing/</guid>
+      <description>&lt;h2 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0;&#34;&gt;Random Share&lt;/h2&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;This is a random recording and sharing section where I will share interesting things that are not related to study 😏. Cheer 🎉&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;text-align: center; margin-top: 16px;&#34;&gt;&#xA;  &lt;img src=&#34;https://xzh976.github.io/images/cheer1.jpg&#34; style=&#34;width: 650px;&#34;&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://xzh976.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/project/</guid>
+      <description>&lt;h3 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0;&#34;&gt;Image Generation&lt;/h3&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;&lt;p style=&#34;margin: 0;&#34;&gt;• &lt;span&gt;Colorization &amp; Enhancement&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;h3 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0;&#34;&gt;Computational Photography&lt;/h3&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;&lt;p style=&#34;margin: 0;&#34;&gt;• &lt;span&gt;Based on the characteristics of images and system, an algorithm framework for video denoising is developed.&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p style=&#34;margin: 0;&#34;&gt;• &lt;span&gt;Learned ISP processing, camera system, HDR fusion and noise calibration.&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;h3 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0;&#34;&gt;Video Snapshot Compressive Imaging&lt;/h3&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;&lt;p style=&#34;margin: 0;&#34;&gt;• &lt;span&gt;Utilized PnP framework, which combined deep learning denoising method with traditional optimization method.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://xzh976.github.io/tech/website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/tech/website/</guid>
+      <description>&lt;h2 style=&#34;color: #000; font-weight: 900; margin-left: 0; padding-left: 0;&#34;&gt;Build a website&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
