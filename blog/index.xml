@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuan on Xuan&#39;s blog</title>
+    <link>https://xzh976.github.io/blog/</link>
+    <description>Recent content in Xuan on Xuan&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xzh976.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://xzh976.github.io/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Project</title>
+      <link>https://xzh976.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://xzh976.github.io/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>https://xzh976.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>https://xzh976.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xzh976.github.io/gallery/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
